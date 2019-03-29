@@ -7,7 +7,7 @@ This a minimalist theme for making simple and efficient plots in ggPlot2, aimed 
 - Using an R command line, import ggPlot2 : <br>
 ```import("ggplot2")```
 - Import the ```theme_lessismore.R``` file : <br>
-```source("INSERT FILE DIRECTORY HERE/theme_lessismore.R```
+```source("INSERT FILE DIRECTORY HERE/theme_lessismore.R")```
 - For testing, use the ```theme_lessismore()``` function. For example :
 ```R
 ggplot(mpg, aes(x = cty, y = hwy)) +
